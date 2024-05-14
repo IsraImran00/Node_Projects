@@ -1,2 +1,2 @@
-This is a cli based numbers guessing game.
+This is a CLI based numbers guessing game.
 NPX Command:- dn30-cli-number-guessing
